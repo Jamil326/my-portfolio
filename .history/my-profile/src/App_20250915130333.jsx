@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import  Header  from './components/Header.jsx';
 import Hero from './components/HeroSection.jsx';
-import MJWebsite  from './components/MJWebsite.jsx';
+import M  from './components/MJWebsite.jsx';
 import './App.css'
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-     <MJWebsite/>
+     <
     </>
   )
 }
